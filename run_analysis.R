@@ -1,5 +1,8 @@
-library(plyr)
+# Getting and Cleaning Data Project John Hopkins Coursera
+# Author: YIYAN YAN
 
+
+library(plyr)
 
 # 0. Collect the raw data
 
